@@ -1,0 +1,5 @@
+ring 500
+hammer 700
+sword 1000
+armor 3500
+staff 650
